@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Simple-Todo-App---React/static/css/main.4340803f.chunk.css",
-    "main.js": "/Simple-Todo-App---React/static/js/main.62e24a08.chunk.js",
-    "main.js.map": "/Simple-Todo-App---React/static/js/main.62e24a08.chunk.js.map",
-    "runtime-main.js": "/Simple-Todo-App---React/static/js/runtime-main.615a5dbc.js",
-    "runtime-main.js.map": "/Simple-Todo-App---React/static/js/runtime-main.615a5dbc.js.map",
-    "static/js/2.efa3be35.chunk.js": "/Simple-Todo-App---React/static/js/2.efa3be35.chunk.js",
-    "static/js/2.efa3be35.chunk.js.map": "/Simple-Todo-App---React/static/js/2.efa3be35.chunk.js.map",
-    "index.html": "/Simple-Todo-App---React/index.html",
-    "precache-manifest.a38de0baf906e77bc5a18cd45b18e150.js": "/Simple-Todo-App---React/precache-manifest.a38de0baf906e77bc5a18cd45b18e150.js",
-    "service-worker.js": "/Simple-Todo-App---React/service-worker.js",
-    "static/css/main.4340803f.chunk.css.map": "/Simple-Todo-App---React/static/css/main.4340803f.chunk.css.map",
-    "static/js/2.efa3be35.chunk.js.LICENSE.txt": "/Simple-Todo-App---React/static/js/2.efa3be35.chunk.js.LICENSE.txt"
+    "main.css": "/Simple-Todo-App---React-Hooks/static/css/main.4340803f.chunk.css",
+    "main.js": "/Simple-Todo-App---React-Hooks/static/js/main.d0f7927a.chunk.js",
+    "main.js.map": "/Simple-Todo-App---React-Hooks/static/js/main.d0f7927a.chunk.js.map",
+    "runtime-main.js": "/Simple-Todo-App---React-Hooks/static/js/runtime-main.d8f54b7a.js",
+    "runtime-main.js.map": "/Simple-Todo-App---React-Hooks/static/js/runtime-main.d8f54b7a.js.map",
+    "static/js/2.22288252.chunk.js": "/Simple-Todo-App---React-Hooks/static/js/2.22288252.chunk.js",
+    "static/js/2.22288252.chunk.js.map": "/Simple-Todo-App---React-Hooks/static/js/2.22288252.chunk.js.map",
+    "index.html": "/Simple-Todo-App---React-Hooks/index.html",
+    "precache-manifest.e576e455eded0d78338d8c3386e0abe7.js": "/Simple-Todo-App---React-Hooks/precache-manifest.e576e455eded0d78338d8c3386e0abe7.js",
+    "service-worker.js": "/Simple-Todo-App---React-Hooks/service-worker.js",
+    "static/css/main.4340803f.chunk.css.map": "/Simple-Todo-App---React-Hooks/static/css/main.4340803f.chunk.css.map",
+    "static/js/2.22288252.chunk.js.LICENSE.txt": "/Simple-Todo-App---React-Hooks/static/js/2.22288252.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.615a5dbc.js",
-    "static/js/2.efa3be35.chunk.js",
+    "static/js/runtime-main.d8f54b7a.js",
+    "static/js/2.22288252.chunk.js",
     "static/css/main.4340803f.chunk.css",
-    "static/js/main.62e24a08.chunk.js"
+    "static/js/main.d0f7927a.chunk.js"
   ]
 }
